@@ -125,7 +125,7 @@ Advanced analytics
 Distributed under the MIT License. See LICENSE for more information.
 
 📞 Contact
-Mehrdad Atariani - Mehrdad.atariani@example.com
+Mehrdad Atariani - Design@Mehrdad.uk
 
 Project Link: https://github.com/Mehredad/UX_TaskTracker?tab=readme-ov-file
 
